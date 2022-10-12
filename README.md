@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Amarjit! 👋
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amarjit-Singh-1&show_icons=true&theme=nightowl&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Amarjit-Singh-1 stats card" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amarjit-Singh-1&theme=gruvbox&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Amarjit-Singh-1 stats card" /></p>
+
